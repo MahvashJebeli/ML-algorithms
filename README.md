@@ -1,4 +1,5 @@
-## Analyzed different datasets using various machine learning algorithms, including KNN, SVM, classification, and regression, utilizing the scikit-learn library and matplotlib to visualize.
+## Analyzed different datasets using various machine learning algorithms, including KNN, SVM, classification, and regression.
+* Utilizing the scikit-learn library and matplotlib to visualize.
 * Additionally, the algorithms were built from scratch to compare with the built-in ones.
 
 ### My practice code from YouTube course [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
